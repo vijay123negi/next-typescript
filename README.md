@@ -1,4 +1,4 @@
 # next-typescript
 This is Git Repository
 <br>
-Author - Vijay Singh
+Author - Vijay Negi
